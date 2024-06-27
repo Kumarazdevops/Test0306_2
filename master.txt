@@ -1,4 +1,4 @@
 ECHO is on.
 
 
-This is Edit in private branch
+I am in master branch.
